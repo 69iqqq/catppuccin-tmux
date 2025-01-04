@@ -1,0 +1,34 @@
+# vim:set ft=tmux:
+
+# --> Catppuccin (Solarized Osaka Theme)
+set -ogq @thm_bg "#002b36"            # Base Dark (Solarized)
+set -ogq @thm_fg "#839496"            # Base Light (Solarized)
+
+# Colors
+set -ogq @thm_rosewater "#073642"     # Deep Shadow Blue
+set -ogq @thm_flamingo "#586e75"      # Muted Aqua
+set -ogq @thm_pink "#cb4b16"          # Solarized Orange
+set -ogq @thm_mauve "#d33682"         # Vibrant Magenta
+set -ogq @thm_red "#dc322f"           # Solarized Red
+set -ogq @thm_maroon "#b58900"        # Warm Yellow
+set -ogq @thm_peach "#268bd2"         # Solarized Blue
+set -ogq @thm_yellow "#fdf6e3"        # Soft Yellow Glow
+set -ogq @thm_green "#859900"         # Bright Green
+set -ogq @thm_teal "#2aa198"          # Cool Teal
+set -ogq @thm_sky "#93a1a1"           # Soft Sky Gray
+set -ogq @thm_sapphire "#073642"      # Dark Sapphire Blue
+set -ogq @thm_blue "#268bd2"          # Bright Solarized Blue
+set -ogq @thm_lavender "#6c71c4"      # Soft Lavender Purple
+
+# Surfaces and overlays
+set -ogq @thm_subtext_1 "#657b83"     # Medium Contrast Gray
+set -ogq @thm_subtext_0 "#839496"     # Base Light Subtext
+set -ogq @thm_overlay_2 "#586e75"     # Deep Overlay
+set -ogq @thm_overlay_1 "#073642"     # Muted Overlay
+set -ogq @thm_overlay_0 "#002b36"     # Dark Overlay
+set -ogq @thm_surface_2 "#073642"     # Surface Highlight
+set -ogq @thm_surface_1 "#00212b"     # Deep Surface
+set -ogq @thm_surface_0 "#001f27"     # Twilight Surface
+set -ogq @thm_mantle "#00212b"        # Mantle of Dusk
+set -ogq @thm_crust "#001f27"         # Osaka Crust
+
